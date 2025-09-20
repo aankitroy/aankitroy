@@ -1,4 +1,4 @@
-👋 Hi, I'm Ankit Roy!
+👋 Hi, I'm Aankit Roy!
 
 Tech entrepreneur backed by Y Combinator, with over a decade of engineering leadership experience building and scaling highly engaging B2C platforms for millions of users. I specialize in multi-agent AI systems, combining strong technical fundamentals with strategic innovation to deliver robust, scalable solutions.
 
